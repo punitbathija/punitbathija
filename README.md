@@ -1,8 +1,7 @@
-### Hi there 👋
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Punit Bathija
-
+### Hi there 👋
 - 👨‍💻 I am a self taught programmer
   <br>
 - 🔭 Currently enrolled in Full Stack Javascript Web Developer Course by iNeuron
