@@ -25,21 +25,29 @@
 ## < Programming Languages👨‍💻 />
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; **HTML 5**
+
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; **CSS 3**
+
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; **JavaScript**
+
 <img height="32" width="32" src="https://www.clipartmax.com/png/full/288-2881446_image-result-for-golang-go-programming-language-logo.png" />&nbsp; **GO LANG**
 
 ## Database Systems📊
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; **MYSQL**
+
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; **MONGO DB**
 
 ## Tools & Frameworks⚒️
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; **GIT**
+
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />&nbsp; **GITHUB**
+
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />&nbsp; **TAILWIND**
+
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; **BOOTSTRAP**
+
 <img height="32" width="32" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" />&nbsp; **CANVA**
 
 <img height="80" width="100" src="https://logowik.com/content/uploads/images/nodejs.jpg" />&nbsp;
