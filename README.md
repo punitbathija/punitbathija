@@ -4,7 +4,7 @@
 ### Hi there 👋
 - 👨‍💻 I am a self taught programmer
   <br>
-- 🔭 Currently enrolled in Full Stack Javascript Web Developer Course by iNeuron
+- 🔭 Currently enrolled in Full Stack Javascript Web Developer Bootcamp by iNeuron
   <br>
   <img height="150" width="250" src="https://learn.ineuron.ai/_next/image?url=https%3A%2F%2Fcdn.ineuron.ai%2Fassets%2Fuploads%2Fthumbnails%2F6294df2c69607950233b875c.jpg&w=1920&q=75" />&nbsp;
 
@@ -50,9 +50,9 @@
 
 <img height="32" width="32" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" />&nbsp; **CANVA**
 
-<img height="80" width="100" src="https://logowik.com/content/uploads/images/nodejs.jpg" />&nbsp;
+<img height="80" width="100" src="https://logowik.com/content/uploads/images/nodejs.jpg" />&nbsp; **NODE JS**
 
-<img height="80" width="100" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" />&nbsp;
+<img height="80" width="100" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" />&nbsp; **EXPRESS JS**
 
 ## SOCIAL
 
