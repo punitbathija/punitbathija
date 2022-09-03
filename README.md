@@ -47,13 +47,13 @@
 ## SOCIAL
 
 <p align="center">
-    <a id="GitHub" href="https://github.com/punitbathija"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Punit Bathija - GitHub" /></a>
+    <a id="GitHub" href="https://github.com/punitbathija"><img width="27px" src="https://www.shareicon.net/download/2016/07/09/118298_github.ico" alt="Punit Bathija - GitHub" /></a>
     &nbsp;&nbsp;
 <p align="center">
     <a id="LinkedIn" href="linkedin.com/in/punit-bathija-2b8951217"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Punit Bathija - Linkedin" /></a>
     &nbsp;&nbsp;
 <p align="center">
-    <a id="LinkedIn" href="mailto:punit644@gmail.com"><img width="27px" src="https://cdn3.iconfinder.com/data/icons/project-management-32/48/51-512.png" alt="Punit Bathija - Email" /></a>
+    <a id="LinkedIn" href="mailto:punit644@gmail.com"><img width="27px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="Punit Bathija - Email" /></a>
     &nbsp;&nbsp;
 
 <img src="https://imgur.com/rilHVxA.png"/>
