@@ -4,7 +4,7 @@
 
 - 👨‍💻 I am a self taught programmer
   <br>
-- 🔭 Currently enrolled in Full Stack Javascript Web Developer Course by iNeuron
+- 🔭 Currently enrolled in Full Stack Javascript Web Developer Bootcamp by Hitesh Choudhary from iNeuron.
   <br>
   <img height="150" width="250" src="https://learn.ineuron.ai/_next/image?url=https%3A%2F%2Fcdn.ineuron.ai%2Fassets%2Fuploads%2Fthumbnails%2F6294df2c69607950233b875c.jpg&w=1920&q=75" />&nbsp;
 
