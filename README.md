@@ -55,7 +55,7 @@
     &nbsp;&nbsp;
 
 <p>
-    <a id="LinkedIn" href="linkedin.com/in/punit-bathija-2b8951217"><img width="107px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Punit Bathija - Linkedin" /></a>
+    <a id="LinkedIn" href="https://www.linkedin.com/in/punit-bathija-2b8951217/"><img width="107px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Punit Bathija - Linkedin" /></a>
     &nbsp;&nbsp;
 
 <p>
