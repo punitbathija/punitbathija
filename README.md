@@ -46,14 +46,24 @@
 
 ## SOCIAL
 
-<p align="center">
-    <a id="GitHub" href="https://github.com/punitbathija"><img width="27px" src="https://www.shareicon.net/download/2016/07/09/118298_github.ico" alt="Punit Bathija - GitHub" /></a>
-    &nbsp;&nbsp;
-<p align="center">
-    <a id="LinkedIn" href="linkedin.com/in/punit-bathija-2b8951217"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Punit Bathija - Linkedin" /></a>
-    &nbsp;&nbsp;
-<p align="center">
-    <a id="LinkedIn" href="mailto:punit644@gmail.com"><img width="27px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="Punit Bathija - Email" /></a>
+<p>
+    <a id="GitHub" href="https://github.com/punitbathija"><img width="107px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Punit Bathija - GitHub" /></a>
     &nbsp;&nbsp;
 
+<p>
+    <a id="Twitter" href="https://mobile.twitter.com/punitbathija"><img width="107px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Punit Bathija - Twitter" /></a>
+    &nbsp;&nbsp;
+
+<p>
+    <a id="LinkedIn" href="linkedin.com/in/punit-bathija-2b8951217"><img width="107px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Punit Bathija - Linkedin" /></a>
+    &nbsp;&nbsp;
+
+<p>
+    <a id="Mail" href="mailto:punit644@gmail.com"><img width="107px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Punit Bathija - Email" /></a>
+    &nbsp;&nbsp;
+
+<p>
+    <a id="Instagram" href="https://www.instagram.com/punit_bathija/"><img width="107px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Punit Bathija - Email" /></a>
+    &nbsp;&nbsp;
+    <br><br>
 <img src="https://imgur.com/rilHVxA.png"/>
