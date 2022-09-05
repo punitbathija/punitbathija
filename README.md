@@ -8,7 +8,8 @@
   <br>
   <img height="150" width="250" src="https://learn.ineuron.ai/_next/image?url=https%3A%2F%2Fcdn.ineuron.ai%2Fassets%2Fuploads%2Fthumbnails%2F6294df2c69607950233b875c.jpg&w=1920&q=75" />&nbsp;
 
-- 📫 **How to reach me**: [Website](https://punit-bathija.netlify.app), [LinkedIn](linkedin.com/in/punit-bathija), [Twitter](https://twitter.com/punitbathija)
+- 📫 **How to reach me**: [Website](https://punit-bathija.netlify.app), [LinkedIn](www.linkedin.com/in/ 
+punit-bathija-2b8951217), [Twitter](https://twitter.com/punitbathija)
 - ⚡ Unbelievable fact: My first words were "Hello world".
 
 ## Some more context about me
