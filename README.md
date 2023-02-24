@@ -5,8 +5,7 @@
 - 👨‍💻 I am a self taught programmer
   <br>
 - 🔭 Currently Experimenting With Next.JS & Open Source.
-  <br>&nbsp;
-
+  <br>
 - 📫 **How to reach me**: [Website](https://punit-bathija.netlify.app), [LinkedIn](https://www.linkedin.com/in/punit-bathija-2b8951217), [Twitter](https://twitter.com/punitbathija)
   <br>
 - ⚡ Unbelievable fact: My first words were "Hello world".
