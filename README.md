@@ -6,7 +6,7 @@
   <br>
 - 🔭 Currently Experimenting With Next.JS & Open Source.
   <br>
-- 📫 **How to reach me**: [Website](https://punit-bathija.netlify.app), [LinkedIn](https://www.linkedin.com/in/punit-bathija-2b8951217), [Twitter](https://twitter.com/punitbathija)
+- 📫 **How to reach me**: [Website](https://punitbathija.netlify.app), [LinkedIn](https://www.linkedin.com/in/punitbathija/), [Twitter](https://twitter.com/punitbathija)
   <br>
 - ⚡ Unbelievable fact: My first words were "Hello world".
   <br>
@@ -63,7 +63,7 @@
     &nbsp;&nbsp;
 
 <p>
-    <a id="LinkedIn" href="https://www.linkedin.com/in/punit-bathija-2b8951217/"><img width="107px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Punit Bathija - Linkedin" /></a>
+    <a id="LinkedIn" href="https://www.linkedin.com/in/punitbathija/"><img width="107px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Punit Bathija - Linkedin" /></a>
     &nbsp;&nbsp;
 
 <p>
